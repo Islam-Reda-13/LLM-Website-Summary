@@ -1,4 +1,4 @@
-## Landing Page Summary Generator
+# Landing Page Summary Generator
 
 This project provides a streamlined interface to generate concise, markdown-formatted summaries of company landing pages. It leverages large language models (LLMs) to extract and articulate key information suitable for potential customers, investors, or recruits.
 Overview
