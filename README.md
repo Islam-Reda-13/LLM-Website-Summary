@@ -37,7 +37,7 @@ dotenv (secure environment variable management)
 # Setup Instructions
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/landing-page-summary-generator.git
+git clone [https://github.com/yourusername/landing-page-summary-generator](https://github.com/Islam-Reda-13/llm-website-summary).git
 
 cd landing-page-summary-generator
 ```
