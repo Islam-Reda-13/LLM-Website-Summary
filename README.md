@@ -37,9 +37,10 @@ The application allows users to:
 # Setup Instructions
 1. Clone the repository
 
-`git clone https://github.com/yourusername/landing-page-summary-generator.git
+`git clone https://github.com/yourusername/landing-page-summary-generator.git\n
 cd landing-page-summary-generator
 `
+
 2. Install dependencies
 
 pip install -r requirements.txt
