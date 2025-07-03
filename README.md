@@ -50,17 +50,18 @@ pip install -r requirements.txt
 
 # Create a .env file in the root directory and add:
 
-```OPENAI_API_KEY=your_key_here
+```
+OPENAI_API_KEY=your_key_here
+
 OPENROUTER_API_KEY=your_openrouter_key_here
 ```
 4. Launch the application
 
-python main.py
+```python main.py```
 
 # Repository Structure
 ```
 ├── main.py                  # Gradio interface and app layout
 ├── models_and_prompting.py # Prompt handling and model streaming logic
 ├── web_scraping.py         # HTML content scraper using BeautifulSoup
-├── .env                    # API keys (excluded from version control)
 └── requirements.txt        # Python package dependencies```
