@@ -1,7 +1,7 @@
 # Landing Page Summary Generator
 
 This project provides a streamlined interface to generate concise, markdown-formatted summaries of company landing pages. It leverages large language models (LLMs) to extract and articulate key information suitable for potential customers, investors, or recruits.
-Overview
+# Overview
 
 The application allows users to:
 
@@ -13,7 +13,7 @@ The application allows users to:
 
     Generate a structured summary in real-time
 
-Features
+# Features
 
     Interactive user interface built with Gradio
 
@@ -23,7 +23,7 @@ Features
 
     Support for multiple models via OpenRouter
 
-Technologies Used
+# Technologies Used
 
     Python
 
