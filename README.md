@@ -36,10 +36,11 @@ The application allows users to:
     dotenv (secure environment variable management)
 # Setup Instructions
 1. Clone the repository
+```
+git clone https://github.com/yourusername/landing-page-summary-generator.git
 
-`git clone https://github.com/yourusername/landing-page-summary-generator.git\n
 cd landing-page-summary-generator
-`
+```
 
 2. Install dependencies
 
@@ -49,17 +50,17 @@ pip install -r requirements.txt
 
 # Create a .env file in the root directory and add:
 
-`OPENAI_API_KEY=your_key_here
+```OPENAI_API_KEY=your_key_here
 OPENROUTER_API_KEY=your_openrouter_key_here
-`
+```
 4. Launch the application
 
 python main.py
 
 # Repository Structure
-`
+```
 ├── main.py                  # Gradio interface and app layout
 ├── models_and_prompting.py # Prompt handling and model streaming logic
 ├── web_scraping.py         # HTML content scraper using BeautifulSoup
 ├── .env                    # API keys (excluded from version control)
-└── requirements.txt        # Python package dependencies`
+└── requirements.txt        # Python package dependencies```
