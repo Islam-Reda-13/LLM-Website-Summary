@@ -35,26 +35,26 @@ OpenRouter API (multi-model access)
 
 dotenv (secure environment variable management)
 # Setup Instructions
-1. Clone the repository
+## 1. Clone the repository
 ```
 git clone https://github.com/Islam-Reda-13/llm-website-summary.git
 
 ```
 
-2. Install dependencies
+## 2. Install dependencies
 
 ```pip install -r requirements.txt```
 
-3. Configure API keys
+## 3. Configure API keys
 
-# Create a .env file in the root directory and add:
+### Create a .env file in the root directory and add:
 
 ```
 OPENAI_API_KEY=your_key_here
 
 OPENROUTER_API_KEY=your_openrouter_key_here
 ```
-4. Launch the application
+## 4. Launch the application
 
 ```python main.py```
 
